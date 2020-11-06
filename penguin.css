@@ -1,0 +1,13 @@
+img{
+    width:100px
+}
+#peninfo td{
+    border:2px solid black;
+}
+#peninfo{
+    border-spacing: 0px;
+}
+#peninfo thead{
+    font-size: 25;
+    font-style: bold;
+}
